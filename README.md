@@ -49,11 +49,11 @@ Screenshot highlights the Review state
 ## 8. Screenshot
 Screenshot shows resolved incident and a closed change request and it also shows closure information
 <img width="1920" height="1080" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/3f815582-0324-4f61-b325-d7bb85e3340c" />
-## Screenshot of a Resolved and fixed Incident by Change Request as highlighted in the below
+## Screenshot 
+Resolved and fixed Incident by Change Request as highlighted in the below screenshot
 <img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/841319de-e87d-4048-bc71-769413c320dc" />
 
 <img width="1448" height="1086" alt="ServiceNow Change Type Comparison" src="https://github.com/user-attachments/assets/8617cf00-fc29-4b04-941f-8cca59b8087e" />
-
 The above diagram compares the three main change types in ServiceNow Change Management based on priority, risk, approval requirements, and frequency.
 
 - Standard Change: A low-risk, routine change that is pre-approved and performed frequently, such as a standard software installation.
