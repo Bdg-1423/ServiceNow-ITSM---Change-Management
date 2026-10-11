@@ -62,7 +62,8 @@ The above diagram compares the three main change types in ServiceNow Change Mana
 
 Key takeaway: ServiceNow uses these change types to ensure IT changes are properly assessed, approved, and implemented while minimizing risk and service disruptions.
 
-<img width="942" height="714" alt="image" src="https://github.com/user-attachments/assets/d5c228f9-c2ad-4229-ac7c-3b678e6de50c" />
+<img width="1441" height="1092" alt="ServiceNow Change Management Benefits" src="https://github.com/user-attachments/assets/beaae34f-43db-49d3-a30f-fd9ca43f6a37" />
+
 
 
 
