@@ -23,28 +23,28 @@ ServiceNow Platform | ITSM | Change Management | Change Requests | Risk and Impa
 # Project Outcome
 Developed practical, hands-on expertise in the ServiceNow Change Management lifecycle, actively managing the end-to-end flow of Normal, Standard, and Emergency changes to protect environment stability.
 ## 1. Screenshot "NEW"
-Shows Emergency change request record created from the previous incident record regarding Network-Internet outage
-<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/c6141704-0341-4e69-83b3-5a783054b4e9" />
+Shows Emergency change request record created from the previous incident record regarding Network-Internet outage. Change Request moves to Authorize after we Request-Approval
+<img width="1920" height="1080" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/1d021bfa-b497-455a-9d16-ab806e61fe62" />
 ## 2. Screenshot
-Documentation for the Implementation Plan as shown below
+Documentation for the Implementation Plan as shown below in the planning phase
 <img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/83e2247b-086d-4031-abe4-f9753eca6855" />
 ## 3. Screenshot 3rd stage "AUTHORIZE"- Request-Approval
-Assess state is skipped in an emergency change to save critical time and to prevent major delays during a high-impact outage or crisis.
+Assess state is skipped in an Emergency Change Request to save critical time and to prevent major delays during a high-impact outage or crisis.
 <img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/15807c59-e6f4-417d-abf0-c218ed220baa" />
 ## 4. Screenshot 
-Schedule is the 4th stage in a change request after the request has been approved by the (CAB Approver)-Assignment group 
+ Screenshot shows Change Request has been approved by the (CAB Approver)-Assignment group 
 <img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/b83a4617-fb4f-479f-9011-6a5c0ac922f6" />
 ## 5. Screenshot/bottom part
 Shows planned start and end date, (CAB Approver) in Assignment Group (Howard Johnson)
 <img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/b3c89a06-d10e-4963-990d-b5b2a2975bdd" />
 ## 6. Screenshot 
-The 5th stage is the Implementation stage for the Change Request
+The Approved Technical work for a Change Request is actively executed
 <img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/8ab52ce5-349e-4b8d-8058-cf1816965f5f" />
 ## Screenshot
 State moves to review after both implement & Test Tasks are closed as highlighted in the below screenshot
 <img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/6d3ab5e6-6771-4426-994f-932e9a05c72f" />
 ## 7. Screenshot
-Screenshot highlights the Review state
+Screenshot highlights the Review state. Review/Post-Implementation Review (PIR) Validation and Testing
 <img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/5000f546-b29a-459b-a7e7-8fce935562d6" />
 ## 8. Screenshot
 Screenshot shows resolved incident and a closed change request and it also shows closure information
